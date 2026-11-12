@@ -237,5 +237,3 @@ ubuntu@ip-172-31-29-191:~/aws-elb-springboot$ sudo java -jar build/libs/aws-elb-
 ^Cubuntu@ip-172-31-29-191:~/aws-elb-springboot$
 ubuntu@ip-172-31-29-191:~/aws-elb-springboot$ http://44.216.82.254/health
 -bash: http://44.216.82.254/health: No such file or directory
-ubuntu@ip-172-31-29-191:~/aws-elb-springboot$ ^C
-ubuntu@ip-172-31-29-191:~/aws-elb-springboot$
