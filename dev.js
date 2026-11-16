@@ -38,14 +38,6 @@ public class AppController {
         return "Success Health Check";
     }
 }
-@RestController: command not found
-public: command not found
--bash: syntax error near unexpected token `"/health"'
--bash: syntax error near unexpected token `('
--bash: return: Success Health Check: numeric argument required
--bash: return: can only `return' from a function or sourced script
--bash: syntax error near unexpected token `}'
--bash: syntax error near unexpected token `}'
 ubuntu@ip-172-31-29-191:~$ ls
 aws-ec2-express  aws-ec2-springboot  aws-elb-springboot  nodesource_setup.sh
 ubuntu@ip-172-31-29-191:~$ cd aws-elb-springboot
