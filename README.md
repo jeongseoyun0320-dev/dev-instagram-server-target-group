@@ -8,7 +8,7 @@ A simple Spring Boot REST application configured to run on an AWS EC2 instance b
 
 Framework: Spring Boot 3.2.0
 
-Language: Java 17
+Language: Java 17 
 
 Build Tool: Gradle
 
