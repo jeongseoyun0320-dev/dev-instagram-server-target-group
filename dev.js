@@ -86,14 +86,7 @@ Command 'import' not found, but can be installed with:
 sudo apt install graphicsmagick-imagemagick-compat  # version 1.4+really1.3.42-1, or
 sudo apt install imagemagick-6.q16                  # version 8:6.9.11.60+dfsg-1.6ubuntu1
 sudo apt install imagemagick-6.q16hdri              # version 8:6.9.11.60+dfsg-1.6ubuntu1
-Command 'import' not found, but can be installed with:
-sudo apt install graphicsmagick-imagemagick-compat  # version 1.4+really1.3.42-1, or
-sudo apt install imagemagick-6.q16                  # version 8:6.9.11.60+dfsg-1.6ubuntu1
-sudo apt install imagemagick-6.q16hdri              # version 8:6.9.11.60+dfsg-1.6ubuntu1
-Command 'import' not found, but can be installed with:
-sudo apt install graphicsmagick-imagemagick-compat  # version 1.4+really1.3.42-1, or
-sudo apt install imagemagick-6.q16                  # version 8:6.9.11.60+dfsg-1.6ubuntu1
-sudo apt install imagemagick-6.q16hdri              # version 8:6.9.11.60+dfsg-1.6ubuntu1
+
 @RestController: command not found
 public: command not found
 -bash: syntax error near unexpected token `"/health"'
